@@ -17,6 +17,7 @@
 * 支持英文、简体中文、希伯来语和德语
 * 支持离线模式
 * 支持所有语言的最热版本库查看
+* 支持多账户切换
 * 搜索版本库和用户
 * 支持7.1以上快捷方式创建
 * 支持消息通知
@@ -24,6 +25,7 @@
 * 自动记录浏览过的用户和版本库
 * 查看 github 集合(collections)
 * 查看 github 精选主题(featured topics)
+* 支持在移动网络下禁用图片加载
 
 ### 版本库
 * 查看版本库信息
@@ -49,9 +51,10 @@
 * 查看组织成员
 
 ### 问题
-* 查看问题信息和评论
+* 查看问题信息、评论和事件
 * 创建、开放和关闭问题
 * 创建、编辑和删除问题评论
+* 编辑、添加和删除你的标签
 * 编写评论时可以预览
 * 查看你创建的、分配给你的和提到你的问题
 * 查看版本库问题
@@ -97,6 +100,8 @@
 ## 贡献
 * [moriel5](https://github.com/moriel5) - 希伯来语翻译
 * [Henry2o1o](https://github.com/Henry2o1o) & [squeezer11](https://github.com/squeezer11) - 德语翻译
+* [Edfgdz](https://github.com/Edfgdz) - 测试与建议
+* [pzhlkj6612](https://github.com/pzhlkj6612) - 改进中文概述的翻译
 
 ## License
     Copyright (C) 2017 ThirtyDegreesRay

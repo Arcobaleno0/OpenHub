@@ -17,6 +17,7 @@ An **open source** GitHub Android client app, faster and concise.
 * English, Simplified Chinese, Hebrew and German support
 * Offline mode
 * Support trending repositories of all languages
+* Support multi-account switching
 * Search repos and users
 * Shortcuts support
 * Notifications support
@@ -24,6 +25,7 @@ An **open source** GitHub Android client app, faster and concise.
 * Record trace of the repos or users you have been viewed
 * View github collections
 * View github featured topics
+* Support disable loading network image while mobile network
 
 ### Repositories
 * View repo info 
@@ -49,9 +51,10 @@ An **open source** GitHub Android client app, faster and concise.
 * View org members
 
 ### Issues
-* View issue info and comments
+* View issue info, comments and events
 * Create, open and close issues
 * Create, edit and delete issue comments
+* Edit, add and delete your labels
 * Write comment with preview
 * View your created, assigned and mentioned issues
 * View repository issues
@@ -97,6 +100,8 @@ An **open source** GitHub Android client app, faster and concise.
 ## Contributions
 * [moriel5](https://github.com/moriel5) - Hebrew translation
 * [Henry2o1o](https://github.com/Henry2o1o) & [squeezer11](https://github.com/squeezer11) - German translation
+* [Edfgdz](https://github.com/Edfgdz) - Testing and suggest
+* [pzhlkj6612](https://github.com/pzhlkj6612) - Improve the translation of chinese readme
 
 ## License
     Copyright (C) 2017 ThirtyDegreesRay
